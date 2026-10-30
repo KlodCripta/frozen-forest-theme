@@ -29,6 +29,8 @@ The theme emphasizes:
 
 ## Official color palette
 
+![Frozen Forest - Official color palette](assets/frozen-forest-palette.png)
+
 | Color | Hex |
 |---|---|
 | Midnight | #0B1740 |
