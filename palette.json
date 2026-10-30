@@ -1,0 +1,16 @@
+{
+  "name": "Frozen Forest",
+  "author": "Klod Cripta",
+  "version": "0.3",
+  "colors": {
+    "midnight": "#0B1740",
+    "deep_blue": "#152D65",
+    "glacier_blue": "#1550B8",
+    "forest_violet": "#5736A7",
+    "aurora": "#885BCA",
+    "frost_gray": "#55678B",
+    "arctic_teal": "#136B89",
+    "deep_teal": "#07566A",
+    "dark_forest": "#092D3A"
+  }
+}

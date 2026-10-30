@@ -1,0 +1,9 @@
+*.bak
+*.orig
+*.pre_*
+*.pre-*
+*~
+build/
+build-*/
+.DS_Store
+__pycache__/
