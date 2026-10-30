@@ -12,7 +12,7 @@ a native GNU/Linux messaging application built with C++ and Qt6.
 
 ![Frozen Forest Qt Widgets conversation preview](assets/frozen-forest-preview.png)
 
-Offline Qt Widgets preview using sample messages.
+Real screenshot of Nivalis Alpha 0.11 running Frozen Forest, with test conversation content.
 
 ## Design philosophy
 
